@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  RKIV.vcxproj -> C:\Users\Владик\Desktop\Проги\ЧМ\Кубические Сплайны\Шаблон\Debug\RKIV.exe
